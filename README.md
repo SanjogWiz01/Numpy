@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 # 🧮 **NumPy Mastery** <br>
 **Hands-on NumPy Practice Repository** 
