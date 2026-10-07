@@ -44,7 +44,7 @@ Each folder focuses on a specific topic, making it easy to learn step-by-step an
 - **Linear Algebra**
 - **Random Number Generation**
 - **Advanced Operations** (Sorting, Sparse Matrices, Image Processing with NumPy)
-- **Best Practices** for efficient NumPy code
+- **Best Practices** for efficient NumPy code.
 
 ---
 
