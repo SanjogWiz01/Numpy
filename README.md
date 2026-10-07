@@ -4,7 +4,7 @@
 **Hands-on NumPy Practice Repository** 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white).  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/SanjogWiz01/Numpy?style=for-the-badge)](https://github.com/SanjogWiz01/Numpy/stargazers)
 
