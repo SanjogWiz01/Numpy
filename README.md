@@ -9,7 +9,7 @@
 [![Stars](https://img.shields.io/github/stars/SanjogWiz01/Numpy?style=for-the-badge)](https://github.com/SanjogWiz01/Numpy/stargazers)
 
 **A beginner-friendly collection of practical NumPy examples covering everything from basics to advanced operations.**. 
-</div>. 
+</div> 
 ---   
 ## ✨ About This Repository
 
@@ -52,4 +52,3 @@ Each folder focuses on a specific topic, making it easy to learn step-by-step an
    ```bash
    git clone https://github.com/SanjogWiz01/Numpy.git
    cd Numpy.
-
