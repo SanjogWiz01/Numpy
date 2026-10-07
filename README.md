@@ -11,8 +11,7 @@
 **A beginner-friendly collection of practical NumPy examples covering everything from basics to advanced operations.**. 
 </div>. 
 
----
-
+---   
 ## ✨ About This Repository
 
 This repository contains **well-organized, hands-on NumPy examples** designed to help beginners and students master numerical computing in Python.
