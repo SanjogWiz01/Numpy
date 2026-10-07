@@ -8,8 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/SanjogWiz01/Numpy?style=for-the-badge)](https://github.com/SanjogWiz01/Numpy/stargazers)
 
-**A beginner-friendly collection of practical NumPy examples covering everything from basics to advanced operations.**
-
+**A beginner-friendly collection of practical NumPy examples covering everything from basics to advanced operations.**. 
 </div>
 
 ---
