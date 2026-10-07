@@ -10,7 +10,6 @@
 
 **A beginner-friendly collection of practical NumPy examples covering everything from basics to advanced operations.**. 
 </div>. 
-
 ---   
 ## ✨ About This Repository
 
